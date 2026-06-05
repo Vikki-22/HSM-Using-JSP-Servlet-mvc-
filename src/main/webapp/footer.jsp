@@ -159,11 +159,11 @@
 
 				<ul class="footer-links">
 
-					<li><a href="#">Doctor Management</a></li>
+					<li><a href="doctor.jsp">Doctor Management</a></li>
 
-					<li><a href="#">Patient Records</a></li>
+					<li><a href="ViewPatientServlet">Patient Records</a></li>
 
-					<li><a href="#">Appointments</a></li>
+					<li><a href="appointment.jsp">Appointments</a></li>
 
 					<li><a href="#">Billing System</a></li>
 
